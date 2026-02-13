@@ -64,3 +64,9 @@ Sau khi hoàn thành cả 4, ta chọn lựa chọn 5 và thu được
 FULL ARTIFACT: flag{P3tch!nG_s_Kinds_C00oO0OOL_IG}
 
 Hoàn thành bài
+
+## Bài 2: FuN51llyM4ch1n3
+
+Khi đúp chuột vào file, ngay lập tức ta được đưa tới video Never Gonna Give You Up aka Rick Lăn
+
+Nên khi vào ida
